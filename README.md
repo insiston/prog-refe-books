@@ -67,6 +67,7 @@
 
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [MySQL 资源大全中文版](https://github.com/jobbole/awesome-mysql-cn)
 
 
 ### NoSQL
