@@ -586,6 +586,7 @@
 * [廖雪峰python](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [跟老齐学Python](http://www.itdiffer.com/)
 * [Python 面试题](https://github.com/taizilongxu/interview_python)
+* [python 模拟登陆](https://github.com/xchaoinfo/fuck-login)
 
 
 ### R
